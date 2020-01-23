@@ -3,3 +3,4 @@ RESOLUSI 2020
 - Mempelajari Fremwoek Boostrap
 - Mempelajari bahasa pemrogramman javaSrcipt
 - Mempelajari bahasa pemrograman PHP
+- Membuat Website 
